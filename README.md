@@ -8,12 +8,12 @@
 
 <!-- Banner Me Area -->
 <h2>Information About App and Developers 👑</h2>
-<img src="[https://github.com/user-attachments/assets/a5195518-7a38-4154-8ab6-d2b25ccc157c](https://github.com/user-attachments/assets/b8a279d7-ecb5-4092-99a2-66e587eb4ae8)" /> </br></br>
+<img src="https://github.com/user-attachments/assets/2e6cb13c-4c98-4a40-982a-13344ad07bfd" /> </br></br>
 
 
 <!-- App Features Area -->
 <h3>App Key Features 💎</h3>
-<p>✔ Requred Update Showing When User Using The App</p>
+<p>✔ Users can use App Without Updating. If User Want and Can Update Later If User Want.</p>
 </br></br>
 
 
